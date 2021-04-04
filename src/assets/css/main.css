@@ -2405,6 +2405,11 @@ input, select, textarea {
 
 /* Image */
 
+
+	#my-image img {
+		border-radius: 50%
+	}
+
 	.image {
 		border-radius: 5px;
 		border: 0;
